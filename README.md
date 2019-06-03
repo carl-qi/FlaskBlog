@@ -10,5 +10,5 @@ My first Flask app as part of my learning experience with full stack web applica
 source venv/bin/activate
 python3 flask_app.py
 ```
-## Credit
+## Credit to
 https://github.com/daguqihanwen/FlaskUsers.git
