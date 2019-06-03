@@ -1,5 +1,5 @@
-# FlaskUsers
-A Flask app that can handle user registration and authentication
+# FlaskBlog
+A Flask app that can handle user registration and authentication and blog posts
 
 ## Description
 My first Flask app as part of my learning experience with full stack web application
