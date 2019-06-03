@@ -11,4 +11,4 @@ source venv/bin/activate
 python3 flask_app.py
 ```
 ## Credit to
-https://github.com/daguqihanwen/FlaskUsers.git
+https://www.fullstackpython.com/flask.html
